@@ -36,8 +36,9 @@ bench --site helpdesk.test add-to-hosts
 # User Login (customer)
 ![image](userlog.png)
 
-1.Here use see all ticket that was created by him.
+## 1.Here use see all ticket that was created by him.
+
 ![image](usertct1.png)
 
-2. User Create a new ticket
+## 2. User Create a new ticket
 ![image](usertct.png)
