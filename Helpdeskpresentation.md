@@ -24,3 +24,13 @@ Teacher can arise issue from diferent source like as a email, phone cell and sen
 
 ## Why use a Frappe Frame work
 Frappe is a full-stack web application framework that is built on Python and is used to develop ERP (Enterprise Resource Planning) applications.Frappe is designed to be highly customizable. Frappe provides a user-friendly interface, making it easier for end-users to interact with the helpdesk app. The framework includes features like forms, and dashboards that enhance the overall user experience.
+
+
+## Instollation of app
+bench get-app --branch version-14 https://github.com/frappe/helpdesk.git
+bench new-site helpdesk.test
+bench --site helpdesk.test install-app helpdesk
+bench --site helpdesk.test add-to-hosts
+
+# User Login (customer)
+![image](helpdesk1.png)
