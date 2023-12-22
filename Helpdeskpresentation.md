@@ -2,7 +2,7 @@
 
 ## User Requirements
 
-### Communication Tools
+ Communication Tools
 
 Internal communication tools for agents to collaborate on resolving tickets efficiently.
 
