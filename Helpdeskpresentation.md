@@ -27,11 +27,12 @@ Frappe is a full-stack web application framework that is built on Python and is 
 
 
 ## Instollation of app
+```sh
 bench get-app --branch version-14 https://github.com/frappe/helpdesk.git
 bench new-site helpdesk.test
 bench --site helpdesk.test install-app helpdesk
 bench --site helpdesk.test add-to-hosts
-
+```
 # User Login (customer)
 ![image](userlog.png)
 
