@@ -2,18 +2,18 @@
 
 ## User Requirements
 
-# Communication Tools
+### Communication Tools
 
 Internal communication tools for agents to collaborate on resolving tickets efficiently.
 
-# Ticket Submission
+### Ticket Submission
 Users should be able to submit tickets easily, providing relevant details about their issues
 
-# Knowledge Base:
+### Knowledge Base:
 
 A knowledge base or FAQ section to provide users with self-help resources and solutions to common issues.
 
-# User Feedback
+###  User Feedback
 
  users provide feedback on the support they received, helping improve service quality.
 
