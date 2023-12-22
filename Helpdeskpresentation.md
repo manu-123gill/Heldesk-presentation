@@ -34,3 +34,7 @@ bench --site helpdesk.test add-to-hosts
 
 # User Login (customer)
 ![image](userlog.png)
+
+![image](userlog.png)
+
+![image](userlog.png)
