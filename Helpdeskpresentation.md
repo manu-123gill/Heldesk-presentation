@@ -33,4 +33,4 @@ bench --site helpdesk.test install-app helpdesk
 bench --site helpdesk.test add-to-hosts
 
 # User Login (customer)
-![image](helpdesk1.png)
+![image](userlog.png)
