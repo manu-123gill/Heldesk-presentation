@@ -19,7 +19,7 @@ A knowledge base or FAQ section to provide users with self-help resources and so
 
 
 ## Purpose 
-My purpurpose for creating this app in a easy way communication between agent and client. Some time client have many problems related to the product and services. you can enclose this app in a ERP. but here i use app in a colleage base. with the help of this app stuedent share our problems with teachers.
+My purpurpose for creating this app in a easy way communication between agent and client. Some time client have many problems related to the product and services.  but here i use app in a colleage base.you can enclose this app in a ERP. with the help of this app stuedent share our problems with teachers.
 Teacher can arise issue from diferent source like as a email, phone cell and send message.
 
 ## Why use a Frappe Frame work
