@@ -34,7 +34,7 @@ bench --site helpdesk.test install-app helpdesk
 bench --site helpdesk.test add-to-hosts
 ```
 # User Login (customer)
-![image](userlog.png)
+![image](hlppresentation1.jpeg)
 
 ## 1.Here use see all ticket that was created by him.
 
